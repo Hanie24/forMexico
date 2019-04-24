@@ -6,46 +6,46 @@ Tenemos como objetivo desarrollar un E-commerce para la distribucion de producto
 PLANEACION
 -------------------------------------------------------
 
--Nombre definitivo del proyecto 
--Identidad corporativa 
--Desarrollar campana de comunicacion
-    Tanto para usuarios/consumidores como para posibles contribuidores (vender la idea)
--Testear el proyecto
--Desarrollar Mockups
--Testear Mockups
--Desarrollo Front-End
--Desarrollo Backend
--Estrategia en redes
+- Nombre definitivo del proyecto 
+- Identidad corporativa 
+- Desarrollar campana de comunicacion
+    - Tanto para usuarios/consumidores como para posibles contribuidores (vender la idea)
+- Testear el proyecto
+- Desarrollar Mockups
+- Testear Mockups
+- Desarrollo Front-End
+- Desarrollo Backend
+- Estrategia en redes
 
 TECNOLOGIAS
 ---------------------------------------------------------
 
--Git
--HTML5
--CSS3
--Javascritp ECMAScript6
--React
--Express
--Sass
--Webpack
--Node.js
--Photoshop
--Ilustrator
--After Effects 
--AWS
+- Git
+- HTML5
+- CSS3
+- Javascritp ECMAScript6
+- React
+- Express
+- Sass
+- Webpack
+- Node.js
+- Photoshop
+- Ilustrator
+- After Effects 
+- AWS
 
 SERVICIOS
 ----------------------------------------------------------
 
--Dominio
--Servidor
--Certificado SSL
--S
--Contribuidores
--Metodos de pago
--Metodos de envio 
--Ab
--Cont
+- Dominio
+- Servidor
+- Certificado SSL
+- S
+- Contribuidores
+- Metodos de pago
+- Metodos de envio 
+- Ab
+- Cont
 
 
 
